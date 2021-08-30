@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78f859e0.chunk.css",
+    "main.js": "/static/js/main.e3671d1a.chunk.js",
+    "main.js.map": "/static/js/main.e3671d1a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e5323ffd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e5323ffd.js.map",
+    "static/js/2.2fe9a8af.chunk.js": "/static/js/2.2fe9a8af.chunk.js",
+    "static/js/2.2fe9a8af.chunk.js.map": "/static/js/2.2fe9a8af.chunk.js.map",
+    "static/js/3.baa6e3b2.chunk.js": "/static/js/3.baa6e3b2.chunk.js",
+    "static/js/3.baa6e3b2.chunk.js.map": "/static/js/3.baa6e3b2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.78f859e0.chunk.css.map": "/static/css/main.78f859e0.chunk.css.map",
+    "static/js/2.2fe9a8af.chunk.js.LICENSE.txt": "/static/js/2.2fe9a8af.chunk.js.LICENSE.txt",
+    "static/media/arte.55e41f90.svg": "/static/media/arte.55e41f90.svg",
+    "static/media/blog.8ef3cfdf.svg": "/static/media/blog.8ef3cfdf.svg",
+    "static/media/ciencia.5da9b2a9.svg": "/static/media/ciencia.5da9b2a9.svg",
+    "static/media/comic.a974c6ee.svg": "/static/media/comic.a974c6ee.svg",
+    "static/media/comida.5721d30a.svg": "/static/media/comida.5721d30a.svg",
+    "static/media/deportes.12e35f5c.svg": "/static/media/deportes.12e35f5c.svg",
+    "static/media/facebook.d7cdfda7.svg": "/static/media/facebook.d7cdfda7.svg",
+    "static/media/foto-seccion.6b569a84.svg": "/static/media/foto-seccion.6b569a84.svg",
+    "static/media/insta.f3a2efdb.svg": "/static/media/insta.f3a2efdb.svg",
+    "static/media/logo.d5aad2a5.svg": "/static/media/logo.d5aad2a5.svg",
+    "static/media/noticias.18306bb8.svg": "/static/media/noticias.18306bb8.svg",
+    "static/media/twiter.0b26d9e4.svg": "/static/media/twiter.0b26d9e4.svg",
+    "static/media/youtube.db5b99fc.svg": "/static/media/youtube.db5b99fc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5323ffd.js",
+    "static/js/2.2fe9a8af.chunk.js",
+    "static/css/main.78f859e0.chunk.css",
+    "static/js/main.e3671d1a.chunk.js"
+  ]
+}
